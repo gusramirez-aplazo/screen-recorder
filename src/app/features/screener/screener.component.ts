@@ -6,7 +6,7 @@ import { MediaRecorderService } from './media-recorder.service';
   selector: 'app-screener',
   template: `
     <main
-      class="text-white max-w-sm mx-auto h-svh flex flex-col items-center gap-4 pt-16"
+      class="text-white max-w-sm mx-auto h-svh flex flex-col items-center gap-4 pt-14"
     >
       <h1 class="text-lg font-bold text-center">Screener</h1>
 
